@@ -29,6 +29,15 @@ float32 desired_approach_distance
 # for the grasp not to be rejected
 float32 min_approach_distance
 
+# The direction for gripper translation after the grasp is achieved
+geometry_msgs/Vector3 translation_direction
+
+# the desired translation distance
+float32 desired_translation_distance
+
+# the minimum translation distance
+float32 min_translation_distance
+
 # an optional list of obstacles that we have semantic information about
 # and that can be touched/pushed/moved in the course of grasping
 string[] allowed_touch_objects
