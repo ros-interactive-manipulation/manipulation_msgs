@@ -1,5 +1,8 @@
 Header header
 
+# An id for the grasp
+string id
+
 # The internal posture of the hand for the pre-grasp
 # only positions are used
 sensor_msgs/JointState pre_grasp_posture
