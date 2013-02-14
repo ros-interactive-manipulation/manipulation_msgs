@@ -23,6 +23,7 @@ set(
   GripperTranslation.msg
   ManipulationPhase.msg
   ManipulationResult.msg
+  PlaceLocation.msg
   PlaceLocationResult.msg
   SceneRegion.msg
 )
