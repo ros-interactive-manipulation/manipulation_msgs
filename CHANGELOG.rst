@@ -2,8 +2,8 @@
 Changelog for package manipulation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2016-07-19)
+------------------
 * Add maintainer (to receive ROS buildfarm error).
 * Contributors: Dave Coleman, Isaac I.Y. Saito
 
